@@ -1,6 +1,6 @@
 # DoitDuck
 
-DoitDuck is a recreation of the Feetech HD1910 servo version of the [Microduck](https://github.com/pollen-robotics/microduck) biped robot duck. It retains that version's mechanical structure, servos, and motion-model format, replaces the controller with DOIT's Cove-610 (Hi3516CV610), and adds browser control, voice conversation, and vision features.
+[DoitDuck](https://esp32s.com/product/biped-robot-duck-esp32-p4-hi3516cv610/) is a recreation of the Feetech HD1910 servo version of the [Microduck](https://github.com/pollen-robotics/microduck) biped robot duck. It retains that version's mechanical structure, servos, and motion-model format, replaces the controller with DOIT's Cove-610 (Hi3516CV610), and adds browser control, voice conversation, and vision features.
 
 - 15 bus servos and a bus-connected IMU; 100 Hz feedback and 50 Hz reinforcement-learning policy inference.
 - Walking, automatic recovery after a fall, and skills such as ground picking and somersaults.
